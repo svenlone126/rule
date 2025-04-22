@@ -1,4 +1,5 @@
 payload:
+ - DOMAIN-KEYWORD,tracker
  - DOMAIN,chdbits.xyz
  - DOMAIN,discfan.net
  - DOMAIN,discfan.xyz
@@ -52,3 +53,4 @@ payload:
  - DOMAIN,www.pttime.org
  - DOMAIN,t.hddolby.com
  - DOMAIN,tracker.cinefiles.info
+ - DOMAIN,leaves.red
