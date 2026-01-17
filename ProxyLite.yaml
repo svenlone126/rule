@@ -1,11 +1,11 @@
 # 代理补充列表
 rules:
-- DOMAIN,docker.com,PROXY
-- DOMAIN,hub.docker.com,PROXY
-- DOMAIN,registry-1.docker.io,PROXY
-- DOMAIN,index.docker.io,PROXY
-- DOMAIN,registry.hub.docker.com,PROXY
-- DOMAIN-KEYWORD,docker,PROXY
+- DOMAIN,docker.com
+- DOMAIN,hub.docker.com
+- DOMAIN,registry-1.docker.io
+- DOMAIN,index.docker.io
+- DOMAIN,registry.hub.docker.com
+- DOMAIN-KEYWORD,docker
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
