@@ -9,6 +9,7 @@ payload:
  - DOMAIN,hdpt.xyz
  - DOMAIN,hdvideo.one
  - DOMAIN,hhanclub.top
+ - DOMAIN,hhanclub.net
  - DOMAIN,ipv4.joyhd.net
  - DOMAIN,on.springsunday.net
  - DOMAIN,pt.btschool.club
@@ -17,10 +18,12 @@ payload:
  - DOMAIN,ptchina.org
  - DOMAIN,ptsbao.club
  - DOMAIN,rousi.zip
+ - DOMAIN,rousi.pro
  - DOMAIN,t.audiences.me
  - DOMAIN,t.hdhome.org
  - DOMAIN,t.pthome.net
  - DOMAIN,t.pthome.org
+ - DOMAIN,tjupt.org
  - DOMAIN,tracker.52dic.vip
  - DOMAIN,tracker.open.cd
  - DOMAIN,tracker.carpt.net
